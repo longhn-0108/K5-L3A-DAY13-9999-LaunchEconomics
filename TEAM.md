@@ -5,7 +5,7 @@
 - Tên nhóm: 9999
 - Lớp: L3A
 - Repo nhóm: `K5-L3A-DAY13-9999-LaunchEconomics` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt: `https://github.com/longhn-0108/K5-L3A-DAY13-9999-LaunchEconomics` · nhánh `main` · commit chốt: *(cập nhật khi chốt cuối buổi)*
+- URL repo, nhánh nộp, commit chốt: `https://github.com/longhn-0108/K5-L3A-DAY13-9999-LaunchEconomics` · nhánh `main` · commit chốt: commit cuối trên nhánh `main` trước deadline (mốc hợp nhất hồ sơ nhóm: `e20cb26`)
 
 ## Thành viên
 

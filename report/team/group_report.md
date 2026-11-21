@@ -25,7 +25,7 @@ Dựng bộ **hồ sơ launch v0** trình hội đồng **Gate 2a** để quyế
 - **Độ nhạy [simulated]:** Ba yếu tố mạnh nhất là số ca làm lại (±51,8%), tỉ lệ xem lại (±40,7%) và lương nhân viên (+23,1%). Giới hạn **2 lần chạy** rẻ nhất cho toàn hệ thống (6.901.220 đ). Xem lại 100% đẩy chi phí lên **11.743 đ (0,98×)** hoặc **12.415 đ (1,03×)** nếu làm lại 15,3 phút/ca.
 - **Chỉ số đợt chạy thử (chưa có đối chứng):** Đóng ≤24h và không mở lại 7 ngày = **82,83%**; bỏ qua gợi ý = **27,12%**; mở lại 7 ngày = **4,25%**.
 - **Đề xuất cuối (`ho_so_launch_v0.md`):** **Go có điều kiện** cho pilot phạm vi `noi_dia` + `hang_nang` (chia 20 + 20 nhân viên, MDE 6 điểm, power ~0,64 ở mức 5 điểm), kèm 4 điều kiện cụ thể có người phụ trách và ngày kiểm tra.
-- **Kết quả duyệt chéo Gate 2a:** *(cập nhật sau phiên duyệt chéo 17:00–17:45; phiếu chấm nhóm bạn nằm tại `report/team/phieu_cham.md`).*
+- **Kết quả duyệt chéo Gate 2a (nhận từ hội đồng `Nhóm 4 Nam`):** Đạt **30/30 điểm** (Đề xuất khớp bằng chứng: 10/10 · Số giả lập và phạm vi: 10/10 · Pilot ra được quyết định: 10/10), quyết định của hội đồng: **Go có điều kiện**. Hội đồng đánh giá hồ sơ đủ 7 mục, minh bạch nhãn `[simulated]` và 2 con số bất lợi (power ~0,64 ở mức 5 điểm; xem lại 100% lên 11.743–12.415 đ [simulated]), đồng thời đặt câu hỏi phản biện về cơ sở chọn ngưỡng `sua + bo < 15%` ở Điều kiện 4 (nhóm giải trình dựa trên mức 27,12% của đợt chạy thử — cải thiện gần gấp đôi — kết hợp hậu kiểm mẫu ngẫu nhiên 5% đơn tự động và kích hoạt rollback mức xem lại nếu mở lại 7 ngày vượt 3,97%). Ở chiều ngược lại, phiếu nhóm 9999 chấm hội đồng cho `Nhom4Nam` (30/30 điểm, **Go có điều kiện**) được lưu tại `report/team/phieu_cham.md`.
 
 ## 5. Khó khăn và cách xử lý
 

@@ -72,4 +72,5 @@ Công cụ nào, dùng vào việc gì, bạn tự kiểm tra kết quả ra sao
 
 ## 6. Tự đánh giá
 
-...
+- Hoàn thành đầy đủ vai trò Người kiểm số: tính tay độc lập A1, A2 trực tiếp từ dữ liệu CSV khớp 100% với `src/lab13.py`, hoàn thiện trọn bộ bảng số liệu và câu trả lời A1–A4, B1–B4 trong `report/team/bang_chi_phi.md`.
+- Thực hiện đối chiếu chéo toàn bộ con số giữa `src/lab13.py`, `pilot_plan.yaml`, `chi_so.md` và `ho_so_launch_v0.md`, đảm bảo tính nhất quán số liệu và tuân thủ đầy đủ các quy tắc nhãn `simulated` của bài lab.
