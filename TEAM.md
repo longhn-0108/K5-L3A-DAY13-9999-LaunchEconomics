@@ -2,19 +2,19 @@
 
 ## Thông tin nhóm
 
-- Tên nhóm:
-- Lớp: L3A hoặc L3B
-- Repo nhóm: `K5-L3A-DAY13-TenNhom-LaunchEconomics` (xem [SUBMISSION.md](SUBMISSION.md))
-- URL repo, nhánh nộp, commit chốt:
+- Tên nhóm: 9999
+- Lớp: L3A
+- Repo nhóm: `K5-L3A-DAY13-9999-LaunchEconomics` (xem [SUBMISSION.md](SUBMISSION.md))
+- URL repo, nhánh nộp, commit chốt: `https://github.com/longhn-0108/K5-L3A-DAY13-9999-LaunchEconomics` · nhánh `main` · commit chốt: *(cập nhật khi chốt cuối buổi)*
 
 ## Thành viên
 
-| STT | Họ tên              | MSSV        | Email                          | GitHub           | Vai trò             |
-| --: | --------------------- | ----------- | ------------------------------ | ---------------- | -------------------- |
-|   1 | Lê Anh Sơn          | 2A202603440 | sonleanh0289@gmail.com         | sonleanh0289-cmd | Người viết code   |
-|   2 | Nguyễn Quang Hiệp   | 2A202603509 | hiepqn1445@gmail.com           | hiepquangnguyen  | Người kiểm số    |
-|   3 | Lưu Văn Việt Đức | 2A202603445 | luuvanvietduc@gmail.com        | IVietDucI        | Người gắn nhãn 1 |
-|   4 | Hoàng Nguyên Long   | 2A202603476 | long.hoangnguyen0108@gmail.com | longhn-0108      | Người gắn nhãn 2 |
+| STT | Họ tên              | MSSV        | Email                          | GitHub           | Vai trò                         |
+| --: | --------------------- | ----------- | ------------------------------ | ---------------- | ------------------------------- |
+|   1 | Lê Anh Sơn          | 2A202603440 | sonleanh0289@gmail.com         | sonleanh0289-cmd | Người viết code                 |
+|   2 | Nguyễn Quang Hiệp   | 2A202603509 | hiepqn1445@gmail.com           | hiepquangnguyen  | Người kiểm số                   |
+|   3 | Lưu Văn Việt Đức    | 2A202603445 | luuvanvietduc@gmail.com        | IVietDucI        | Người gắn nhãn 1                |
+|   4 | Hoàng Nguyên Long   | 2A202603476 | long.hoangnguyen0108@gmail.com | longhn-0108      | Người gắn nhãn 2, kiêm giữ hồ sơ |
 
 Bốn vai của lab:
 
