@@ -9,12 +9,12 @@
 
 ## Thành viên
 
-| STT | Họ tên | MSSV | Email | GitHub | Vai trò |
-| --: | ------ | ---- | ----- | ------ | ------- |
-|   1 |        |      |       |        |         |
-|   2 |        |      |       |        |         |
-|   3 |        |      |       |        |         |
-|   4 |        |      |       |        |         |
+| STT | Họ tên              | MSSV        | Email                          | GitHub           | Vai trò             |
+| --: | --------------------- | ----------- | ------------------------------ | ---------------- | -------------------- |
+|   1 | Lê Anh Sơn          | 2A202603440 | sonleanh0289@gmail.com         | sonleanh0289-cmd | Người viết code   |
+|   2 | Nguyễn Quang Hiệp   | 2A202603509 | hiepqn1445@gmail.com           | hiepquangnguyen  | Người kiểm số    |
+|   3 | Lưu Văn Việt Đức | 2A202603445 | luuvanvietduc@gmail.com        | IVietDucI        | Người gắn nhãn 1 |
+|   4 | Hoàng Nguyên Long   | 2A202603476 | long.hoangnguyen0108@gmail.com | longhn-0108      | Người gắn nhãn 2 |
 
 Bốn vai của lab:
 
@@ -41,12 +41,6 @@ Sao chép mục dưới đây cho từng thành viên.
 
 ### Phần việc phụ trách
 
--
-
 ### Đóng góp cụ thể
 
--
-
 ### Bằng chứng
-
--

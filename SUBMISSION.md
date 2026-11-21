@@ -33,28 +33,28 @@ git push -u origin main
 
 ### Code (trong `src/`)
 
-| File | Nội dung | Nhiệm vụ |
-|---|---|---|
-| `src/lab13.py` | Code chạy được từ đầu đến cuối trong `src/`, in ra các bảng | A, B, D1 |
+| File             | Nội dung                                                                 | Nhiệm vụ |
+| ---------------- | ------------------------------------------------------------------------- | ---------- |
+| `src/lab13.py` | Code chạy được từ đầu đến cuối trong `src/`, in ra các bảng | A, B, D1   |
 
 ### Hồ sơ nhóm (trong `report/team/`, giữ nguyên tên file)
 
-| File | Nội dung | Nhiệm vụ |
-|---|---|---|
-| `report/team/bang_chi_phi.md` | Bảng A2, A3, bảng độ nhạy, câu trả lời B3 và B4 | A, B |
-| `report/team/bang_loi.md` | Hai bộ nhãn, tỉ lệ đồng thuận, bảng khắc phục 5 ca | C |
-| `report/team/pilot_plan.yaml` | Kế hoạch pilot, không còn dấu `?` | D |
-| `report/team/chi_so.md` | Đặc tả chỉ số, danh sách event, các dòng rủi ro kinh tế | E |
-| `report/team/ho_so_launch_v0.md` | Một trang, bảy mục, dòng cuối là đề xuất Go / Go có điều kiện / No-go | E |
-| `report/team/phieu_cham.md` | Phiếu nhóm mình chấm nhóm khác khi làm hội đồng | Duyệt chéo |
+| File                               | Nội dung                                                                          | Nhiệm vụ   |
+| ---------------------------------- | ---------------------------------------------------------------------------------- | ------------ |
+| `report/team/bang_chi_phi.md`    | Bảng A2, A3, bảng độ nhạy, câu trả lời B3 và B4                           | A, B         |
+| `report/team/bang_loi.md`        | Hai bộ nhãn, tỉ lệ đồng thuận, bảng khắc phục 5 ca                       | C            |
+| `report/team/pilot_plan.yaml`    | Kế hoạch pilot, không còn dấu `?`                                           | D            |
+| `report/team/chi_so.md`          | Đặc tả chỉ số, danh sách event, các dòng rủi ro kinh tế                  | E            |
+| `report/team/ho_so_launch_v0.md` | Một trang, bảy mục, dòng cuối là đề xuất Go / Go có điều kiện / No-go | E            |
+| `report/team/phieu_cham.md`      | Phiếu nhóm mình chấm nhóm khác khi làm hội đồng                          | Duyệt chéo |
 
 ### Thông tin nhóm và báo cáo
 
-| File | Nội dung |
-|---|---|
-| `TEAM.md` (root) | Thông tin nhóm, thành viên, vai và đóng góp |
-| `report/team/group_report.md` | Báo cáo nhóm ngắn |
-| `report/team/MSSV_HoTen.md` | Mỗi thành viên một file, copy từ mẫu và đổi tên, ví dụ `report/team/20241234_NguyenVanAn.md` |
+| File                            | Nội dung                                                                                                  |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| `TEAM.md` (root)              | Thông tin nhóm, thành viên, vai và đóng góp                                                        |
+| `report/team/group_report.md` | Báo cáo nhóm ngắn                                                                                      |
+| `report/team/MSSV_HoTen.md`   | Mỗi thành viên một file, copy từ mẫu và đổi tên, ví dụ `report/team/20241234_NguyenVanAn.md` |
 
 Không commit `.venv/` hay `.env`.
 
@@ -73,7 +73,7 @@ Các mốc giờ trong [CHECKPOINTS.md](CHECKPOINTS.md) là checkpoint tại l�
 
 ## Checklist
 
-- [ ] Đổi tên repo theo đúng quy ước `K5-L3A-DAY13-…` (hoặc `K5-L3B-DAY13-…`).
+- [X] Đổi tên repo theo đúng quy ước `K5-L3A-DAY13-…` (hoặc `K5-L3B-DAY13-…`).
 - [ ] Điền `TEAM.md` ở root: thông tin nhóm, thành viên, vai, đóng góp.
 - [ ] Mỗi thành viên có file báo cáo đã đổi tên đúng định dạng `report/team/MSSV_HoTen.md`.
 - [ ] `cd src && python3 lab13.py` chạy hết trên một máy khác trong nhóm; ba phép thử A1 in ĐẠT (1,20 · 1,25 · 1,25).
