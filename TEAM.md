@@ -54,10 +54,52 @@ Sao chép mục dưới đây cho từng thành viên.
 - `src/lab13.py` (chạy sạch từ đầu đến cuối, khớp 0% sai lệch với số đối chiếu và kết quả độc lập của Người kiểm số).
 - `report/team/2A202603440_LeAnhSon.md`, `report/team/chi_so.md`.
 
-## HoVaTen-MSSV
+## NguyenQuangHiep-2A202603509
 
 ### Phần việc phụ trách
 
+- Tính tay độc lập số liệu A1, A2 từ hai file CSV để kiểm chứng kết quả của `src/lab13.py`.
+- Điền `report/team/bang_chi_phi.md` (A1–A4, B1–B4), kiểm nhãn `simulated` và rà soát độ lệch số liệu.
+
 ### Đóng góp cụ thể
 
+- Đối chiếu độc lập 100% số liệu A1, A2 (lệch 0% so với `src/lab13.py` và số mẫu hướng dẫn).
+- Hoàn thiện trọn bộ bảng và câu trả lời A1–A4, B1–B4 trong `report/team/bang_chi_phi.md` và báo cáo cá nhân `report/team/2A202603509_NguyenQuangHiep.md`.
+
 ### Bằng chứng
+
+- Commit `f9b914d`, `report/team/bang_chi_phi.md`, `report/team/2A202603509_NguyenQuangHiep.md`.
+
+## LuuVanVietDuc-2A202603445
+
+### Phần việc phụ trách
+
+- Người gắn nhãn 1 ở CP3 (gắn nhãn độc lập 20 ca lỗi theo Google PAIR, tổng hợp `report/team/bang_loi.md`).
+- Thiết kế kế hoạch pilot và hoàn thiện `report/team/pilot_plan.yaml` (CP4).
+
+### Đóng góp cụ thể
+
+- Gắn nhãn độc lập 20 ca lỗi, đối chiếu đạt đồng thuận 20/20 (100%) và hoàn thiện bảng đề xuất khắc phục 5 ca trong `report/team/bang_loi.md`.
+- Hoàn thiện đầy đủ chú thích D1, D2, D3, phương án chia 20 + 20 nhân viên (MDE 6 điểm, power ~0,64 ở 5 điểm) và 3 luật dừng đủ 4 vế trong `report/team/pilot_plan.yaml`.
+
+### Bằng chứng
+
+- Commit `dc5dd8d` (`report/team/bang_loi.md`), commit `a187e40` (`report/team/pilot_plan.yaml`).
+
+## HoangNguyenLong-2A202603476
+
+### Phần việc phụ trách
+
+- Quản lý repo nhóm, cập nhật `TEAM.md` và giữ hồ sơ `report/team/ho_so_launch_v0.md`.
+- Người gắn nhãn 2 ở CP3 (gắn nhãn độc lập 20 ca lỗi).
+- Hoàn thiện danh sách event, kiểm tra chéo, rủi ro kinh tế (E2) trong `report/team/chi_so.md` và báo cáo nhóm `report/team/group_report.md`.
+
+### Đóng góp cụ thể
+
+- Gắn nhãn độc lập 20 ca lỗi, đối chiếu đạt đồng thuận 20/20 (100%) trong `report/team/bang_loi.md`.
+- Hoàn thiện 10 event có `trace_id`, mục kiểm tra chéo và 3 dòng rủi ro kinh tế trong `report/team/chi_so.md`.
+- Tổng hợp đầy đủ 7 mục và chốt đề xuất **Go có điều kiện** kèm 4 điều kiện cụ thể trong `report/team/ho_so_launch_v0.md`; viết `report/team/group_report.md` và `report/team/2A202603476_HoangNguyenLong.md`.
+
+### Bằng chứng
+
+- Commit `36001be`, `TEAM.md`, `report/team/chi_so.md`, `report/team/ho_so_launch_v0.md`, `report/team/group_report.md`, `report/team/2A202603476_HoangNguyenLong.md`.
