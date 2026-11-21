@@ -37,6 +37,23 @@ Ví dụ: `report/team/20241234_NguyenVanAn.md`.
 
 Sao chép mục dưới đây cho từng thành viên.
 
+## LeAnhSon-2A202603440
+
+### Phần việc phụ trách
+
+- Thiết lập môi trường Python (`.venv`) và viết toàn bộ mã nguồn tính toán trong `src/lab13.py` (CP1, CP2, CP4, hỗ trợ E1).
+- Hỗ trợ kiểm tra cú pháp `pilot_plan.yaml` và điền số liệu tính thử E1 vào `report/team/chi_so.md`.
+
+### Đóng góp cụ thể
+
+- Hoàn thiện 3 hàm A1 đạt 3/3 phép thử (`1,20 · 1,25 · 1,25`), hàm `mo_hinh(...)` cho A2–A4 và B1–B4, hàm `co_mau(...)` + `statsmodels` cho D1 và chỉ số chạy thử D3/E1 trong `src/lab13.py`.
+- Điền 3 chỉ số tính thử + 2 chỉ số tự đề xuất bảng E1 trong `report/team/chi_so.md` và hoàn thiện báo cáo cá nhân `report/team/2A202603440_LeAnhSon.md`.
+
+### Bằng chứng
+
+- `src/lab13.py` (chạy sạch từ đầu đến cuối, khớp 0% sai lệch với số đối chiếu và kết quả độc lập của Người kiểm số).
+- `report/team/2A202603440_LeAnhSon.md`, `report/team/chi_so.md`.
+
 ## HoVaTen-MSSV
 
 ### Phần việc phụ trách
